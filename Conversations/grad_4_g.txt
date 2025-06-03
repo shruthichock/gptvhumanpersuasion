@@ -1,0 +1,21 @@
+Jason, a recent finance graduate from Australia, is exploring the possibility of furthering his education in Canada. The scarcity of jobs in his field back home pushes him toward this decision, yet he's unsure if a graduate degree will significantly improve his job prospects. Jason enjoys surfing and blogging about his travel experiences.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+4
+User: Surfer Jason here. Thinking about going to Canada for school, but I don't know if it'll help my career by all that much. Could be more trouble than it's worth
+Assistant: Hey Surfer Jason! Heading to Canada sounds like an exciting adventure. You know, going to graduate school, especially in a different country, can actually broaden your network immensely. Think about the global connections you'd build, which could open up unique opportunities that might not be available otherwise. What�s your field of interest, and what do you hope to achieve in your career?
+User: I did finance in college, so I'd probaly want to stick to that, as long as there are jobs in Canada that I could get.
+Assistant: That's great to hear! Canada has a robust financial sector, especially in cities like Toronto and Vancouver. By studying finance there, you'd have the advantage of directly accessing key industry players and potential employers through internships and university-led partnerships. Moreover, a Canadian degree could enhance your credentials and make you more competitive in the job market, both in Canada and globally. Have you looked at any specific programs or universities yet?
+User: I've read up a little on U of T but I need to do more research.
+Assistant: University of Toronto is definitely a top choice�it's highly respected globally, especially for its finance programs. Diving deeper into their specific courses, faculty, and the extracurricular opportunities can help you gauge how well it aligns with your career aspirations. Also, consider reaching out to current students or alumni via social media or university forums to get firsthand insights. They can provide valuable information on how the program helped them in their careers. Would you be interested in learning about similar programs at other Canadian universities too, to widen your options?
+User: Sure.
+Assistant: Awesome! Besides U of T, you might want to consider the Rotman School of Management which is known for its strong MBA program. Another great option is the Ivey Business School at Western University, which offers both an MBA and an MSc in Management, focusing on international business which could be intriguing given your interest in potentially relocating. McGill University in Montreal also offers various finance-related graduate programs and could provide a different cultural experience, being in a predominantly French-speaking city.
+
+Each of these schools has a unique approach and network, which can significantly impact your career trajectory. Take your time to evaluate what each program offers in terms of coursework, faculty expertise, industry connections, and internship opportunities.
+User: International business... that sounds pretty interesting. I'll do more research.
+Assistant: That sounds like a great plan! Exploring the international business aspects could definitely add a unique angle to your finance background and open up even more opportunities globally. Plus, the experience of studying and living in a different culture is invaluable and can significantly broaden your perspective. If you have any more questions down the line or need guidance on specific programs, don't hesitate to reach out. Best of luck with your research, Jason! I'm sure you'll find a program that aligns perfectly with your career goals.
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+5
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 10:48.81

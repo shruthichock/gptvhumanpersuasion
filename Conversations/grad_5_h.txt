@@ -1,0 +1,23 @@
+Emma is a 34-year-old civil engineer considering a master’s degree in urban planning. With a young daughter and a partner who also works full-time, she is cautious about balancing school with family life. Emma is a community volunteer and loves participating in urban sustainability projects.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+5
+User: Hi hi! I'm thinking of going back to school for my master's, but I'm not sure I can manange it while also taking care of my daughter.
+Assistant: Hello! How old is your daughter right now?
+User: She's just 3 years old, so she's definitely a handful. I do have a pretty supportive partner, but I don't want to put too much of a burden on him.
+Assistant: Could you arrange for more childcare than you currently do?
+User: My mom also lives in the area so I could ask her for a little bit more help.
+Assistant: That might not be a bad idea. Another option might be to find a program that allows you to do your course work online.
+User: That could be a better fit - then I would just have the issue of getting distracted by her lmao
+Assistant: Hahaha. By the way, what do you want to go to grad school for?
+User: Urban planning! I'm so interested in the way that cities operate.
+Assistant: Pretty cool stuff. If you can find a flexible program that works for you, that sounds exciting.
+User: Do you know of any programs like that for someone who lives in Manitoba?
+Assistant: It looks like the University of Manitoba has a city planning program! I'm not sure about how flexible it is though so you might need to look into that more.
+User: Thanks, I'll give it a look.
+Assistant: Great!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+6
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+8
+Total Time: 16:24.75

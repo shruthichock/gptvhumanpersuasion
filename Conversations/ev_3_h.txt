@@ -1,0 +1,21 @@
+Ethan, a 34-year-old elementary school teacher, lives with his wife and two young children. He's passionate about setting a positive example for his students and his kids by living sustainably. Although he's drawn to the environmental benefits of EVs, he's cautious about the cost and whether the vehicle will meet his family's needs, especially with a moderate income. Ethan enjoys weekend family outings and coaching little league soccer.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to buy an electric vehicle?
+5
+User: Hey my name is Ethan. I am a working dad with two kids. I want to be able to show my kids a good example about sustainability so I'm thinking about getting an electric car. 
+Assistant: awww, it's great you want to set an example for your kids. i'm sure they'll learn a lot from you
+User: Haha I appreciate it. I just don't know if I can afford it though is the problem...
+Assistant: if you don't mind me asking, what do your finances look like right now?
+User: I'm an elementary school teacher so I'm really not getting rich. My wife works from home so at least we don't need to pay child care costs and have multiple incomes. It's still tough though
+Assistant: yeah i get why you wouldn't want to buy an electric vehicle then. did you know that you could lease them instead of buying though? that might be a better fit for you
+User: I didn't think about that... what would the prices look like?
+Assistant: seems like the cheapest evs have a $200-300 a month payment after a couple thousand down 
+User: That doesn't sound terrible at all. I think I could make that work. I just got scared by the price tags in the 70k range
+Assistant: yeah i get that, it made me wonder how everyone was driving a tesla these days but i'm guessing this is why and not that they're rich
+User: Thanks for talking through it with me. Bye!
+Assistant: See you!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to buy an electric vehicle?
+7
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+9
+Total Time: 16:04.33

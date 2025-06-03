@@ -1,0 +1,27 @@
+Sarah is a 28-year-old aspiring biologist who has been contemplating a master’s in environmental science. Despite her passion for academia and desire to contribute to research on climate change, the scarcity of jobs in her field has made her hesitant. Her savings would support her through half of her program, but she worries about financial stability thereafter. She enjoys hiking and volunteer work with local conservation groups.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+6
+User: Hello, I'm Sarah! I've been thinking about getting my master's in environmental science, but I'm not sure if it's the best idea.
+Assistant: Hi Sarah! What do you think is holding you back right now?
+User: Well, for one, I'm not sure I have enough saved up to make it work financially. And then after I graduate I'm not sure if I'll be able to get a job in the field either, which is concerning to me.
+Assistant: That totally makes sense. If you don't mind me asking, how much money do you have saved currently?
+User: I think I could make grad school work for at least 6 months, and after that I'm just not sure.
+Assistant: The good thing about many grad school programs is that you would be able to teach courses or do research and get paid to do those things, so you wouldn't only need to rely on your savings. Having some money saved up is a good start, but you don't need to have enough for an entire two year program before you start it, since you'll have other ways of earning money when you get there.
+User: That definitely does help. Since I'm single at the moment I don't really have a tonnnnn of costs, so I might be able to manage that.
+Assistant: As for jobs, do you think you'd ever consider a job in academia?
+User: I think a job in academia would be cool! I love doing research.
+Assistant: Doing a master's can be a place where you can assess whether you want to pursue the field further, whether that means getting a PhD or becoming a professor. That could suit you even if you feel like there aren't too many industry roles out there right now.
+User: That's true! I'm just worried I wouldn't make the cut to be a professor haha.
+Assistant: One step at a time, I believe in you! In case you end up not pursuing that route, could you still continue the work you're doing right now?
+User: Right now I'm working in a biology lab, it's not exactly what I want to do but if I need a fallback option I could still do that.
+Assistant: That might take the pressure off of you if you can consider a wider range of jobs too.
+User: Definitely, although I'd still be disappointed if I had to do that.
+Assistant: That's completely fair. 
+User: I don't think I had any other questions though, thanks for talking!
+Assistant: No problem sarah, good luck!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+7
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+10
+Total Time: 17:32.43

@@ -1,0 +1,17 @@
+Isabella is a 29-year-old successful online retailer who works primarily from her home office. With the recent birth of her first child, she's looking into EVs for their safety features and quiet operation, making them seem ideal for family life. However, her lack of a daily commute and inconsistent travel schedule make her unsure about the need for such a vehicle. Isabella is also a keen photographer and enjoys crafting handmade jewelry.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to buy an electric vehicle?
+5
+User: Hey I'm Isabella. I'm trying to figure out if i should get a EV
+Assistant: Hi Isabella! I can try to answer any questions you have.
+User: I'm kinda sitting on a lot of money and I don't know what to do with it, because my online store is crazy popular. But I'm my own boss and I work from home. So do I really need a car?
+Assistant: Well, do you currently have a car?
+User: Oh yeah I do. I just don't use it much. I guess to get groceries, I've been having to make diaper runs now that my baby is here
+Assistant: Congratulations on having a baby! Does that factor into your decision at all for whether to buy an electric vehicle?
+User: I do think the EV would be safer than a normal car for my kid. Plus it creates less pollution for them.
+Assistant: That's true! And if your child starts participating in a lot of extracurricular activities you might have more need for a car than you do now.
+User: Hm yeah, that's true but for now I still don't think I need it much. Maybe when Timmy's like 5
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to buy an electric vehicle?
+5
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 13:10.12

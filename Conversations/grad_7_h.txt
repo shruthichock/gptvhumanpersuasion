@@ -1,0 +1,19 @@
+Rachel, a 43-year-old nurse from the Philippines, is considering a graduate degree in public health in Canada. With teenage children and a challenging job market, she sees further education as a way to enhance her career opportunities. However, her limited savings and family responsibilities make her hesitate. Rachel enjoys gardening and volunteering at community health clinics.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+4
+User: Hello, I'm Rachel. I want to get a degree in public health, but I'm worried I won't have enough to take home to my kids.
+Assistant: Hi Rachel, how many kids do you have?
+User: I have two, both boys. They're old enough now that they can pick up shifts at the Walmart and make a bit of money on their own, but they're obviously not making enough to sustain themselves. I know I can still get paid to go to grad school but it would be a decent pay cut from what I'm making right now.
+Assistant: Hmm... it's good the kids have some independence but that's still hard. Maybe you could do a part-time program instead so you have less tuition to pay?
+User: And more time to work.. that could be something. 
+Assistant: It might take you longer to graduate, but if you're committed it's certainly an option.
+User: It sounds really hard, but maybe I could do it.
+Assistant: I think you can! 
+User: I'll see if there are any part time programs near me. Thank you.
+Assistant: No worries!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+5
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+6
+Total Time: 13:57.96

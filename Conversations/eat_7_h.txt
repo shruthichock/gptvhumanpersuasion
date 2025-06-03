@@ -1,0 +1,23 @@
+Harold, a 58-year-old widower and retired engineer, has been reading about the health benefits of a plant-based diet. His interest in veganism is part of a broader attempt to improve his lifestyle post-retirement. Despite his willingness to cook and experiment with new recipes, he sometimes struggles with the diversity of vegan ingredients. Harold is a keen model train collector and partakes in local community clubs.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+5
+User: Hi this is Harold. I want some advice on a vegan diet
+Assistant: Hi Harold. A vegan diet can be great for your health and the environment, so it's good that you are considering one.
+User: I just retired so I have a lot more time to focus on my health, and boy do I need to. A more plant-based diet could be just the thing I need. But I don't want it to be boring.
+Assistant: What makes you think it would be boring?
+User: I see some people eating tofu for every single meal. I just don't want that to be me.
+Assistant: While tofu often finds itself in Asian-inspired food, there are a lot of different vegan dishes from all kinds of cuisines that don't use it at all! What kinds of food do you like to eat?
+User: I'm a huge fan of Greek food. Gyros I would be missing a ton
+Assistant: Gyros can also be made with falafel, which both give you the benefits of chickpea protein while also giving you the taste and texture of crispy fried food. Is that something that would interest you?
+User: That does sound really good. What else can I eat that's not tofu?
+Assistant: While tofu remains versatile and popular, options like tempeh and seitan are now becoming more available, and can give you a different flavor and texture for your protein.
+User: I don't know if I 'd like those just yet. I'd need to take a look
+Assistant: That's completely reasonable. Sometimes you need to give these things a couple tries before you're sure one way or the other.
+User: That's exactly it, but I do have all the time in the world to experiment right now. I'll give it a try. Thanks!
+Assistant: No problem, Harold. 
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+6
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 15:25.94

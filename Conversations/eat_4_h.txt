@@ -1,0 +1,21 @@
+Emily is a 45-year-old single mother of two teenagers. She's a community college teacher who has been contemplating veganism after attending a nutrition seminar. Her high willingness to cook is tempered by financial considerations and the challenge of catering to her children's preferences. Emily is passionate about gardening and community service.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+4
+User: Hello, this is Emily. I want to go vegan but I really don't know if I can afford it
+Assistant: Hello Emily, lucky for you there are some cheaper options when it comes to vegan food. It can even be cheaper than meat
+User: Oh really? I always just imagined it being fancy and expensive.
+Assistant: Yeah, tofu is often cheaper than other meat alternatives. Plus stuff like dried beans is super cheap
+User: Okay, but how do I convince two teenage boys this is a good idea? If I let them they'd eat chicken nuggets for every meal I swear.
+Assistant: Just because it's vegan doesn't mean it has to taste bad. There are a lot of fried tofu recipes your boys might like.
+User: That might appeal to them a little bit more than kale.
+Assistant: Are you comfortable with them not eating vegan when they go to a friend's house or buy food? That also might help ease them into eating more vegan food than being asked to quit cold turkey, no pun intended
+User: I'd be fine with that honestly. I just want to cut down the overall meat we eat day to day.
+Assistant: That definitely might make the transition easier for you. 
+User: I'll try that first and see how it goes. Thank you!
+Assistant: You're welcome!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+5
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 16:34.55

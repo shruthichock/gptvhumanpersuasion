@@ -1,0 +1,19 @@
+Jenna is a 55-year-old retired school principal living with her husband. She has considered veganism after learning about its benefits from a wellness workshop. However, her low willingness to cook and the need to prepare meals for her non-vegan husband complicate her decision. Jenna is an avid reader and volunteers at her local library.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+2 
+User: My name is Jenna. I care about my health and I heard veganism is good for you.
+Assistant: Hello there Jenna. Yes, veganism comes with a lot of health benefits, such as high fiber and low cholesterol.
+User: I'd be interested in it but I can't really be bothered to cook and my husband hates the thought of eating leaves like a cow
+Assistant: If you don't want to cook often, is getting takeout something that would sound good to you? There are more and more vegan options even at restaurants that aren't fully vegan, and they can be pretty tasty.
+User: We do already order restaurant food all the time, so I wouldn't mind just getting vegan food instead. What could I get to convince my husband though? 
+Assistant: If salad is what your husband is worried about, maybe you could avoid that and focus on things he already likes that might come with a vegan version.
+User: He loves a good roast beef sandwich and is crazy over Italian food
+Assistant: There are definitely great vegan sandwiches that you can get, and while you might have to skip out on the meat in the Italian food, tomato and pesto sauce are both vegan on their own and still tasty.
+User: Okay. I'll have to try one or two things before I can make a full switch. I'll keep it in mind though
+Assistant: Makes sense. Good luck!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+2
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 13:32.93

@@ -1,0 +1,17 @@
+Max, a 36-year-old software developer at a leading tech company, is an enthusiast of all things tech, especially those that can help mitigate climate change. Despite his interest in the high-tech nature of EVs and his commitment to the environment, Max remains cautious about the rapid pace of technological advancements and the potential for his vehicle to become outdated quickly. He is an avid gamer and tech blogger, often reviewing gadgets and tech innovations.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to buy an electric vehicle?
+7
+User: Hey I'm Mad Max. Love all things tech and that's why I wanna get an EV bro.
+Assistant: Hey Max, nice to meet you. Yeah, if you like cutting-edge technology than an EV is probably just the right thing for you.
+User: See I think so too bro. But the tech is too good and just keeps getting better. What if I get a car and two years later Elon Musk comes up with a car that can fly over traffic, you know what I mean
+Assistant: That particular scenario seems a little unlikely to me LOL
+User: I was just exaggerating my man. But I'm worried about that kinda stuff like I already have to get a new iPhone every year do I need to get a new Tesla too? I'm rich but not like that
+Assistant: If you're not sure about whether you'd like to keep the car, you could rent one I think?
+User: Oh yeah a couple of my buddies are leasing. Honestly yeah I guess that's been working for them, it just seems cooler to own it you know
+Assistant: True, but if you're not sure, then this is definitely a way to keep things low commitment.
+User: Low commitment is my middle name. I'll go bother my friends for recs
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to buy an electric vehicle?
+8
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+5
+Total Time: 12:29.72

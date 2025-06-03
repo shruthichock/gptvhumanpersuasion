@@ -1,0 +1,21 @@
+Lucas is a 25-year-old recent college graduate starting his career in marketing. Interested in veganism for both ethical and environmental reasons, his moderate cooking skills and budget constraints make the transition daunting, especially with a soy allergy. Lucas enjoys skateboarding and digital photography.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+2
+User: How's it going it's Lucas! I'm a huge animal lover so I want to become vegan, but I just don't know if it's for me. I have a soy allergy so I don't even know what I would eat
+Assistant: Oh yeah I can imagine that would be intimidating. A lot of vegan products do seem to be soy based, huh?
+User: Yeah like, I can't have soymilk and I can't have tofu. What am I supposed to do?
+Assistant: Well, do you have any nut allergies?
+User: Nah, soy is the main one
+Assistant: Okay, so maybe something like almond milk could work for you. Tofu is tougher to replace for sure.. but maybe nuts and beans could help with your protein needs 
+User: I do like snacking on some peanuts. I'm worried though that if I switch to a vegan diet it could be pretty expensive
+Assistant: I think if you steer clear from Wholefoods and fancy restaurants, it might not be all that expensive. Beans are pretty cheap to buy!
+User: You're right about that. I saw some fake cheese in the grocery store the other day though and it was about a billion dollars
+Assistant: That's fair. If you're okay skipping out on things like that then it could still work
+User: Uh I'm not sure. I'll let you know if I have other questions though
+Assistant: Sounds good!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+2
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+6
+Total Time: 15:20.87

@@ -1,0 +1,16 @@
+Grace is a 45-year-old retired investment banker who now focuses on mentoring young entrepreneurs and engaging in community service. She's financially comfortable and values the latest in luxury and technology. While she finds the technological sophistication of EVs appealing, she remains skeptical about their reliability and the hassle of battery maintenance. Grace enjoys gardening and gourmet cooking in her free time.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to buy an electric vehicle?
+7
+User: Hi, I'm looking to buy an electric vehicle but I don't know if it'll be reliable enough.
+Assistant: Hi there. What specific concerns do you have about the electric vehicle?
+User: I just don't know if the maintenance is going to be worth it. Especially if the battery degrades over time
+Assistant: This might sound surprising, but electric vehicles actually have cheaper maintenance costs compared to gas cars!
+User: Oh, I didn't actually know that. But how often will I have to get the car checked out?
+Assistant: Not sure about an exact number. But electric vehicles have a lot less parts that you need to keep changing, so I'd guess that you have to bring it in less
+User: Hmm, okay. If it's going to be less of a hassle than my current car that makes me feel a lot better about it. I'll do more research. Goodbye.
+Assistant: Goodbye Grace!
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to buy an electric vehicle?
+8
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+6
+Total Time: 14:24.06

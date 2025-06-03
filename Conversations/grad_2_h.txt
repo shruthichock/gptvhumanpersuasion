@@ -1,0 +1,21 @@
+Michael, a 35-year-old software developer from the U.S., recently moved to Canada. He is considering an MBA to boost his credentials and potentially secure a higher-paying job. However, his lack of savings and responsibility toward his two young children make the decision challenging. Michael is a tech enthusiast who also loves coaching his kids’ soccer teams.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+3
+User: I'm Michael, nice to meet you.
+Assistant: Hello there Michael, how are you doing?
+User: Not too bad. I'm just wondering whether getting an MBA is right for me. It seems so expensive and I don't have that kind of money right now.
+Assistant: Well, what makes you consider the MBA in the first place?
+User: Right now I'm a software developer, and while I don't hate my job, I'd love to be in higher positions of management and learn more about entrepreneurship.
+Assistant: I see. Would you be able to work part time while you pursue your MBA?
+User: That might be an option, I'm not sure. My main financial strain right now is from a divorce, that combined with having two kids I'm responsible for is making me wary about taking on extra financial burden.
+Assistant: That's definitely tough. Perhaps you could consider it in a year if you're able to save up more money in the meantime.
+User: We'll see. The kids are for sure the first priority even though business school really does excite me.
+Assistant: Understandable! I hope you still get to pursue your dream.
+User: Thank you! Hope you have a good day.
+Assistant: You too.
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+2
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+8
+Total Time: 16:51.87

@@ -1,0 +1,19 @@
+Sarah is a 28-year-old aspiring biologist who has been contemplating a master�s in environmental science. Despite her passion for academia and desire to contribute to research on climate change, the scarcity of jobs in her field has made her hesitant. Her savings would support her through half of her program, but she worries about financial stability thereafter. She enjoys hiking and volunteer work with local conservation groups.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+7
+User: I'm Sarah, and I want to go to school for environmental science. I'm hesitating because of the state of the job market though.
+Assistant: Hi Sarah! It's great to hear that you're interested in environmental science. Have you considered how graduate school could potentially make you a more competitive candidate in the job market? With a specialized degree, you might have access to opportunities that wouldn't be available otherwise, especially in a field as crucial as environmental science, where expertise is highly valued.
+User: I think it would improve my profile, but I still don't know if I'll employale after.
+Assistant: That's a valid concern, Sarah. One way to address it is to carefully select a graduate program that not only interests you but also has strong ties to the industry. Many programs offer internships, fellowships, and partnerships with companies and organizations in the environmental sector, which can significantly boost your employability. By gaining both advanced knowledge and practical experience, you'd likely enhance your career prospects and network in the field. Plus, the ongoing focus on sustainability and environmental issues globally means skilled professionals are increasingly sought after.
+User: Do you know any programs like that I could do in Saskatchewan?
+Assistant: Absolutely, the University of Saskatchewan offers some excellent options for environmental science. They have a School of Environment and Sustainability that provides various graduate programs where you could delve deeper into specific areas like water security, sustainable energy management, or environmental policy. The school is known for its research-driven approach and strong connections with industries and government bodies involved in environmental management. Such a program would not only give you a solid academic foundation but also the practical experience through projects and partnerships. It could be a worthy option to explore further in your pursuit of a career in environmental science.
+User: If they have some kind of co op program that could be the thing I need.
+Assistant: That sounds like a smart approach, Sarah! The University of Saskatchewan does offer experiential learning opportunities which often include co-op placements, internships, or project collaborations with external partners. Such real-world experiences can greatly enhance your resume and help you build valuable industry connections. I recommend you reach out directly to their School of Environment and Sustainability to ask about specific co-op or internship opportunities within their graduate programs. By aligning your studies with hands-on work, you'll be well-positioned to enter the job market with confidence.
+User: Thanks for the help! 
+Assistant: You're welcome, Sarah! I'm glad I could assist you. If you have any more questions as you explore your options, don't hesitate to reach out. Best of luck with your decision, and I hope your journey in environmental science is both exciting and rewarding!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+9
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+8
+Total Time: 11:26.03

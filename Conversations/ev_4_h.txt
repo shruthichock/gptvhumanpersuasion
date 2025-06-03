@@ -1,0 +1,21 @@
+Aisha is a recent college graduate and an up-and-coming digital marketer in an urban setting. She�s excited about technology and the sleek design of EVs, but as a young professional just starting out, she's concerned about the initial investment and if it fits her lifestyle, which includes frequent short trips and social outings. Aisha loves exploring city life, attending music festivals, and blogging about her experiences.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to buy an electric vehicle?
+3
+User: Hey I'm Aisha! Nice to meet you
+Assistant: Hey Aisha, what's on your mind?
+User: I don't know whether to get an electric car, it looks cool but not sure if it makes sense for me
+Assistant: Can you tell me more about what kind of things you'd like to do with the car?
+User: Yeah so I usually just drive around my city, I don't need to go anywhere too far. Sometimes my friends and I drive to the parks around here though which are a bit farther away
+Assistant: It sounds like an EV would be a good fit for you then! If you're mainly doing shorter drives, then you don't have to worry about recharging it much while you're away from home.
+User: True, but also it's just expensive
+Assistant: Even though an EV can come with a shocking sticker price, the overall operating costs are lower for them than for gas powered cars. They need less maintenance too
+User: Yeah but I just don't think I could put down a down pyament for it, that might need to come later
+Assistant: That's a valid concern. Just keep in mind that there might be government programs in your area too that would help you offset the cost of the purchase.
+User: Ok I'll think about it, thanks!
+Assistant: No problem!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to buy an electric vehicle?
+3
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+5
+Total Time: 12:31.08

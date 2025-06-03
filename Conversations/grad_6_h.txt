@@ -1,0 +1,19 @@
+Andre, a 29-year-old political science major, dreams of becoming a professor. Despite the availability of jobs in his field, his lack of savings makes the prospect of unpaid research during graduate studies daunting. Andre is passionate about social justice and frequently engages in public speaking events.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+6
+User: Hey this is Dre. Wanna be a prof so grad school seems like the next thing to do, just don't know where I'll get the money.
+Assistant: Hi Dre, grad school is the route for sure if you're considering being a professor. What's your financial situation right now?
+User: Well, I have barely anything in the bank. I love being an activist but it doesn't pay. And having to pay more for school just seems impossible right now.
+Assistant: Do you think you could work while you pursue school? One way to do that is by being a teqching assistent.
+User: Hm, I could, but I'd need to see how much it pays exactly. I don't have the luxury of doing anything worse than breaking even.
+Assistant: You wouldn't get rich off of it, but it could be just enough to make ends meet.
+User: I just wish I could get paid well for doing what moves me, but not sinking into the hole might have to be enough. I'll try to find programs that allow me to teach.
+Assistant: Sounds like a plan! Do you have any other questions?
+User: Nah, that's it for now, thanks
+Assistant: Talk to you later!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+7
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 14:02.93

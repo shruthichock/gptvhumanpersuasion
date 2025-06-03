@@ -1,0 +1,19 @@
+Linda is a 45-year-old senior marketing consultant interested in shifting to academia. With a comfortable financial cushion and no dependents, she feels this is the right time to pursue her PhD. However, she questions whether the time and effort required will provide the personal fulfillment she seeks. Linda is an avid reader and participates in local book clubs.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+6
+User: This is Linda, I came here to get some advice about going to grad school. I feel like I finally have enough saved to where finances wouldn't be a worry for me at all, but I don't know if the time is worth it.
+Assistant: Hey Linda. What would you want to go to grad school for?
+User: I work in marketing right now, which does pay the bills, but it's not exactly the world's most exciting job. My real passion is with books and literature. Getting a PhD in English is something that's always interested me. I'm just worried I'll get sick of it after 2 years.
+Assistant: Since we only have so much time on earth, I understand both not wanting to spend it doing marketing if that doesn't interest you and being unsure whether a years long program will be the right fit. Have you considered getting a master's first, to see if you would want to stick with the program?
+User: That's a good idea... a master's would be shorter and I could get a taste of academia while not being fully tied to it.
+Assistant: Exactly! It provides you the perfect avenue to either switch back to working a job or continuing to pursue academic studies.
+User: I can see that. I'll do more research into master's programs today.
+Assistant: Awesome! I hope you find something you like.
+User: Appreciate it. Goodbye! 
+Assistant: Goodbye.
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+7
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 14:44.38

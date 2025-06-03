@@ -1,0 +1,21 @@
+Theo is a 35-year-old freelance graphic designer who works from home. He's been exploring veganism to improve his health and reduce his environmental footprint. His high willingness to cook is matched by his need to avoid nuts due to allergies, which makes finding suitable recipes a bit challenging. Theo enjoys yoga and hiking in his free time.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+3 
+User: Hi I'm Theo. I've been trying out some vegan recipes but I don't know if I should fully make the switch.
+Assistant: Hi Theo! What's holding you back?
+User: I'm allergic to most nuts which is a huge killer. Giant protein source that's completely out of the picture for me
+Assistant: Yeah, that's tough. Have you considered options like tofu instead?
+User: I have, but I just don't know if I could eat it all the time you know? I eat a variety of meat right now and I'm worried about letting go of that variety
+Assistant: There still might be other protein sources that you haven't considered. For example, beans and lentils could be a good one for you
+User: Lentils sound interesting. I've never cooked with them before but I would be willing to give it a shot
+Assistant: Do you like Indian food? That often includes lentils, in dishes like daal.
+User: Yeah I love Indian food. I'll give that a try!
+Assistant: Indian food also includes chickpeas, which are another source of protein.
+User: Oh okay, thanks for talking to me!
+Assistant: Of course!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+4
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+6
+Total Time: 9:46.98

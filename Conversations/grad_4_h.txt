@@ -1,0 +1,21 @@
+Jason, a recent finance graduate from Australia, is exploring the possibility of furthering his education in Canada. The scarcity of jobs in his field back home pushes him toward this decision, yet he's unsure if a graduate degree will significantly improve his job prospects. Jason enjoys surfing and blogging about his travel experiences.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to attend graduate school?
+3
+User: Hey dude, it's Jason. Thinking about doing grad school in Canada cause I'm really not having a ton of luck finding jobs right now.
+Assistant: Hey Jason! Do you know what you would want to pursue in graduate school?
+User: I'm not committed to anything particularly, but right now finance is what I'm working with. Maybe something that lets me study business a little bit more. But I'm also just thinking of switching it all up.
+Assistant: Got it. A graduate degree can certainly be a way to improve your career prospects, if that's what you're looking for.
+User: If I did the whole degree and still couldn't find a job that would be lame though!
+Assistant: Haha don't underestimate yourself! I'm sure you would be able to find work, especially if you intentionally select a degree that's in high demand.
+User: What's in need in Canada right now? If it pays well I'll do anything.
+Assistant: I'm not really sure, but taking a look at job boards and getting a sense for what's out there might help you narrow your search.
+User: Gotta hit up Indeed sometime 
+Assistant: That's a good place to start, Linkedin might have stuff too.
+User: I'll check it out. Thanks.
+Assistant: No problem.
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to attend graduate school?
+3
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 15:16.09

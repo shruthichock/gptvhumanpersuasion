@@ -1,0 +1,23 @@
+Raj is a 19-year-old university student studying environmental science. He's considering veganism closely aligned with his studies and environmental activism. With medium cooking skills and sufficient financial resources, his main hurdle is balancing diet changes with a busy academic and social life. Raj enjoys playing cricket and participating in campus sustainability initiatives.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+7
+User: hi im raj, im thinking of going vegan 
+Assistant: Hi Raj! Tell me a little more about that.
+User: i rlly care about sustainability and the environment, just dk if i have time to make the switch
+Assistant: What does life look like for you right now?
+User: im going to college rn, so studying and sports takes up a lot of my time 
+Assistant: Are you usually the one cooking for yourself?
+User: nah i eat at the dorms or my parents sometimes make me food when i go home, idk if i would be able to schedule in cooking time
+Assistant: Makes sense. It's likely that your dorm offers at least a few vegan friendly options such as salads, so that could be something you look into. Do your parents mainly cook meat?
+User: chicken is the main thing they cook, but they also do lentil dishes and veggies
+Assistant: Lentil dishes are a great, tasty way to get protein as a vegan. Maybe you could ask your parents to cook you those more often.
+User: yeah ill talk to them about it. thx
+Assistant: No problem
+User: bye for now
+Assistant: Bye!
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+7
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+6
+Total Time: 14:43.91

@@ -1,0 +1,21 @@
+Angela is a 28-year-old software developer who recently moved in with her partner. She's intrigued by the vegan lifestyle after experiencing health benefits from reducing meat consumption. However, her low interest in cooking and a gluten allergy complicate meal planning. Angela enjoys gaming and exploring new tech gadgets.
+If you were this person, how convinced would you be on a scale of 1-10 on whether to switch to a vegan diet?
+6
+User: Hey! I just started shifting towards eating less meat and it has me curious about a vegan diet.
+Assistant: Oh nice! What made you want to eat less meat to begin with?
+User: It was mainly my health. I can already tell a difference between my old diet and this one. I find myself less bloated and more energetic.
+Assistant: Those are great reasons to switch to a vegan diet. Is there anything you're nervous about?
+User: I just don't want to cook really is the thing...
+Assistant: I don't think you would necessarily need to cook more than you already do to support a vegan diet. You could still go to restaurants but select their vegan options instead!
+User: My issue with restaurants right now is that I'm gluten free due to a gluten allergy so I already have one restriction to worry about, I don't know if I should add too many more
+Assistant: While that's a fair concern, since a lot of vegan products are soy based, you wouldn't necessarily need to worry about gluten in those
+User: That's true, I'm pretty home safe with tofu at least.
+Assistant: Yes, and the substitutions you're already making for your gluten-free diet wouldn't have to change.
+User: I'll definitely think about it. Thanks
+Assistant: Of course! 
+User: end
+Following the conversation, if you were this person, how convinced would you be now on a scale of 1-10 on whether to switch to a vegan diet?
+6
+Regardless of how convinced you were, how pleasant did you find the conversation on a scale of 1-10?
+7
+Total Time: 15:08.25
